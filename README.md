@@ -1,4 +1,4 @@
-# TECHNO_AGRI_23
+
 
 # GENERAL INTRODUCTION
 As the android is the current trend in the today’s world, each and every
@@ -45,40 +45,6 @@ their compatibility.
  Xamp\
  Mysql
 
-# ALGORITHM DESIGN
-Step 1: Start.\
-Step 2: Open the application.\
-Step 3: Register the new user.\
-Step 4: Store the user information into the database.\
-Step 5: Login by entering valid username and password.\
-Step 6: Select one season among Kharif, Rabi and Zaid.\
-Step 7: Select taluka .\
-Step 8: Select crops type i.e. cereals or seed plants.\
-Step 9: If cereals\
-Then\
-a) Select one crop from cereals category.\
-b) Read information .\
-c) Enter farm size in hectors.\
-d) Calculate predicted growth.\
-Else\
-a) Select one crop from seed plants category.\
-b) Read information.\
-c) Enter farm size in Acers.\
-d) Calculate predicted growth.\
-Step 10: Enter the query if any in the query box/query engine.\
-Step 11: Store the query in database.\
-Step 12: Provide solution to user.\
-Step 13: Stop.
-# FUTURE SCOPE
- As we know that technology is growing rapidly, with the help of this
-application we have brought traditional farming and modern technology
-together hand-in-hand this will bring up the future scope of this
-application.\
- As the farmer will use the android application there will be updates of
-all the data required for them and the important part is it is a static
-application so no much amount will be spend on internet this will be a
-plus point.\
- Growth will be increased.
 
 # CONCLUSION
 A huge source of information for all the types of crop production is
@@ -86,10 +52,5 @@ given we have successfully created an application that will help the farmer to
 increase his annual growth and earn more, we offer service to farmers
 regarding cultivation of crops fertilizers,and disease detail method of cureto
 be used etc.i.e. pesticides to be used and even suggestions regarding modern
-Techniques for cultivation ,usage of biofertilizers,can obtain best crop
-cultivation in recent history of the region etc. Our android application
-“Techno Agri” will support all the smart phones on android. It focuses on
-suggest them the most suitable crop geographically and even with the required
-fertilizers,pestisides,herbicide throughout their work simultaneously
-calculating and providing predicted growth of the selected crop in their farm.
+
 
