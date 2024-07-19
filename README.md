@@ -3,11 +3,8 @@
 # GENERAL INTRODUCTION
 As the android is the current trend in the today’s world, each and every
 domain has android based applications. But it is relatively less advancement in
-the technology in the field of agriculture.“TECHNO AGRI” is a revolutionary
-android based agriculture mobile application, which helps user to take
-informed decisions by accessing customized agricultural information
-related to their need. Our agricultural app will also provide latest technology,
-tools, methods, and fertilizer.
+the technology in the field of agriculture.
+
 It is a kind of data warehouse for the farmers, as all the information
 of the crops for sowing in farm, the appropriate requirement for the crops i.e.
 how much water it requires and which are the best pesticides for it, how many
